@@ -1,0 +1,17 @@
+{
+  "name": "api-details-fetch",
+  "version": "1.0.0",
+  "description": "the project fetchs data from clouds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aswath",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsforce": "^1.11.0"
+  }
+}
